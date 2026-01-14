@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Ivan Franco 👋
+#### Backend Developer Python & Django
 
-<!--
-**IvanFranco55/IvanFranco55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante avanzado de Ingeniería en Sistemas (UTN) apasionado por la lógica de negocio y la arquitectura de software. Me especializo en construir APIs robustas y escalables.
 
-Here are some ideas to get you started:
+🛠️ **Tech Stack**
+* **Lenguajes:** Python, SQL
+* **Frameworks:** Django, Django REST Framework
+* **Tools:** Docker, Git, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyectos Destacados**
+* [**Sistema de Logística**](https://github.com/IvanFranco55/sistema_logistica): API RESTful para gestión de inventarios y cálculo de volumen.
+* [**E-commerce Web**](https://github.com/IvanFranco55/NOMBRE_NUEVO_DEL_REPO): Plataforma completa de ventas con pasarela de pagos y administración.
+
+📫 **Contacto**
+[LinkedIn](https://www.linkedin.com/in/ivan-franco-478a91364)
