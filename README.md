@@ -9,9 +9,19 @@ Soy estudiante avanzado de Ingeniería en Sistemas (UTN) apasionado por la lógi
 * **Tools:** Docker, Git, PostgreSQL
 
 🚀 **Proyectos Destacados**
-* [**Sistema de Gestión Odontológico**](https://github.com/IvanFranco55/gestion_turnos_finanzas): Software integral para administración de turnos y pacientes desplegado en producción con Docker (Offline-first).
-* [**Sistema de Logística**](https://github.com/IvanFranco55/sistema_logistica): API RESTful para gestión de inventarios y cálculo de volumen.
-* [**E-commerce Web**](https://github.com/IvanFranco55/blog-ecommerce-django): CSM - Sistema de gestión de contenidos.
+
+* [**Sistema de Gestión para Consultorios**](https://github.com/IvanFranco55/gestion_turnos_finanzas)
+  **SaaS Multi-propósito (Odontología, Kinesiología, etc.)**
+  Software integral desplegado con Docker (Offline-first). Gestiona agenda de turnos, historias clínicas, facturación a obras sociales y reportes financieros.
+
+* [**Blog CMS & Gestión de Usuarios**](https://github.com/IvanFranco55/blog-ecommerce-django)
+  **Plataforma de Contenidos Interactiva**
+  Sistema completo de ABM de artículos con autenticación avanzada. Incluye gestión de perfiles con avatar, roles de usuario, sistema de comentarios y filtros de búsqueda.
+  🔗 *Demo en vivo:* [ivanf55.pythonanywhere.com](https://ivanf55.pythonanywhere.com)
+
+* [**Sistema de Logística**](https://github.com/IvanFranco55/sistema_logistica)
+  **API RESTful de Inventarios**
+  Backend diseñado para la gestión de stock y cálculo automatizado de volumetría de carga.
 
 📫 **Contacto**
 [LinkedIn](https://www.linkedin.com/in/ivan-franco-478a91364)
